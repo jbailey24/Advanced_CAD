@@ -1,3 +1,7 @@
 # Advanced CAD
 
-HELLO FROM THE OTHER SIDDDDDDEEEEE!!!
+## Gearbox
+
+## Motion Study 
+
+## Stress Analysis
