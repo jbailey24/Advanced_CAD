@@ -2,15 +2,15 @@
 
 ## Gearbox
 
-![](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxTopSnip.PNG)
+<img src="https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxTopSnip.PNG" width="300" />
 
-![Gearbox Top Photo](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxTopSnip.PNG?raw=true)
+<img src="https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxFrontSnip.PNG?raw=true" width="300" />
 
-![Gearbox Front Photo](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxFrontSnip.PNG?raw=true)
+<img src="https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxIsoSnip.PNG?raw=true" width="300" />
 
-![Gearbox Isometric Photo](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxIsoSnip.PNG?raw=true)
+<img src="https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxIsoTransSnip.PNG?raw=true" width="300" />
 
-![Gearbox Isometric Photo](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxIsoTransSnip.PNG?raw=true)
+
 
 ## Motion Study
 
