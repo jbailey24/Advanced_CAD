@@ -13,7 +13,7 @@
 
 ## Motion Study
 
-<img src="https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudyFrontSnip.PNG" width="280" /><img src="https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudyBackSnip.PNG" width="290" /><img src="https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudySideSnip.PNG" width="275" />
+<img src="https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudyFrontSnip.PNG" width="285" /><img src="https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudyBackSnip.PNG" width="280" /><img src="https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudySideSnip.PNG" width="270" />
 
 ## Stress Analysis
 
