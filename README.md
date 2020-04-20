@@ -2,7 +2,7 @@
 
 ## Gearbox
 
-<img src="(https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxTopSnip.PNG">
+![](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxTopSnip.PNG)
 
 ![Gearbox Top Photo](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxTopSnip.PNG?raw=true)
 
@@ -12,6 +12,8 @@
 
 ![Gearbox Isometric Photo](https://github.com/jbailey24/Advanced_CAD/blob/master/GearandGearbox/GearboxIsoTransSnip.PNG?raw=true)
 
-## Motion Study 
+## Motion Study
+
+![Motion Study Back](https://github.com/jbailey24/Advanced_CAD/blob/master/Motionstudy/MotionStudyBackSnip.PNG)
 
 ## Stress Analysis
